@@ -6,6 +6,7 @@ authors:
   - name: "Imaginesis"
     website: "https://imaginesis.com"
 url: "https://imaginesis.com/en/curricula"
+doi: 10.5281/zenodo.23217841
 repository-code: "https://github.com/imaginesis/curriculum-crosswalk"
 license: CC-BY-4.0
 keywords:
