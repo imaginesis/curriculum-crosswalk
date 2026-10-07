@@ -1,0 +1,12 @@
+{
+  "title": "Imaginesis curriculum crosswalk: maths skills x national curricula x grades",
+  "upload_type": "dataset",
+  "description": "Mapping of the official mathematics curriculum documents of 10 school systems (Austria, France, Germany, Italy, the Netherlands, Poland, Spain, Switzerland, the United Kingdom, the United States) to one shared taxonomy of maths skills, grade by grade, with the identifier of each requirement in its source document. Prepared by Imaginesis (https://imaginesis.com), a maths worksheet generator. Human-readable comparison: https://imaginesis.com/en/curricula. Updated automatically when a curriculum mapping changes.",
+  "creators": [{"name": "Imaginesis"}],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": ["mathematics education", "curriculum", "crosswalk", "national curriculum", "grade level", "K-12", "open data"],
+  "related_identifiers": [
+    {"identifier": "https://imaginesis.com/en/curricula", "relation": "isDocumentedBy", "resource_type": "other"}
+  ]
+}
