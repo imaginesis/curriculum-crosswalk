@@ -1,0 +1,19 @@
+# Each data version is pushed as a tag vYYYY.MM.DD by the Imaginesis export routine.
+# A GitHub release per tag lets Zenodo archive the version and mint a DOI.
+name: release
+on:
+  push:
+    tags: ["v*"]
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "$GITHUB_REF_NAME" --title "Data snapshot $GITHUB_REF_NAME" \
+            --notes "Automatic snapshot of the Imaginesis curriculum crosswalk. See meta.json for counts and CHANGES.md for what changed."

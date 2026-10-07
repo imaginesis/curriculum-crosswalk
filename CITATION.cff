@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Imaginesis curriculum crosswalk: maths skills x national curricula x grades"
+type: dataset
+authors:
+  - name: "Imaginesis"
+    website: "https://imaginesis.com"
+url: "https://imaginesis.com/en/curricula"
+repository-code: "https://github.com/imaginesis/curriculum-crosswalk"
+license: CC-BY-4.0
+keywords:
+  - mathematics education
+  - curriculum
+  - crosswalk
+  - national curriculum
+  - grade level
+  - worksheets

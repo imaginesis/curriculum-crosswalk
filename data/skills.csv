@@ -1,0 +1,474 @@
+slug,level,parent_slug,name_en,name_pl
+algebra,1,,Algebra,Algebra
+arithmetic,1,,Arithmetic,Arytmetyka
+data-and-chance,1,,Data and chance,Dane i przypadek
+geometry,1,,Geometry,Geometria
+measurement,1,,Applying mathematics in everyday life,Stosowanie matematyki w sytuacjach życiowych
+spatial-relations,1,,Spatial relations and size attributes,Stosunki przestrzenne i cechy wielkościowe
+addition-subtraction,2,arithmetic,Addition and subtraction,Dodawanie i odejmowanie
+algebraic-expressions,2,algebra,Algebraic expressions,Wyrażenia algebraiczne
+angles,2,geometry,Angles,Kąty
+area,2,geometry,Area,Pole figury
+calculus,2,algebra,Calculus,Rachunek różniczkowy i całkowy
+chance,2,data-and-chance,Chance and likelihood,Przypadek i szanse
+circle-geometry,2,geometry,"Circles: chords, tangents, angles, sectors","Okrąg i koło: cięciwy, styczne, kąty, wycinki"
+common-fractions,2,arithmetic,Common fractions,Ułamki zwykłe
+comparing-numbers,2,arithmetic,Comparing numbers,Porównywanie liczb
+complex-numbers,2,arithmetic,Complex numbers,Liczby zespolone
+coordinate-plane,2,algebra,Coordinate plane,Układ współrzędnych
+data-handling,2,data-and-chance,Working with data,Praca z danymi
+decimal-fractions,2,arithmetic,Decimal fractions,Ułamki dziesiętne
+divisibility,2,arithmetic,Divisibility,Podzielność
+everyday-strategy,2,measurement,Estimation and strategy games,Szacowanie i gry strategiczne
+exponential-functions,2,algebra,Exponential functions,Funkcja wykładnicza
+function-properties,2,algebra,Properties and operations on functions,Własności funkcji i działania na funkcjach
+graph-theory,2,geometry,Graphs,Grafy
+inequalities,2,algebra,Inequalities,Nierówności
+integers,2,arithmetic,Integers (negative numbers),Liczby całkowite (liczby ujemne)
+length-measurement,2,geometry,Measuring length,Pomiar długości
+linear-equations,2,algebra,Linear equations,Równania liniowe
+linear-functions,2,algebra,Linear functions,Funkcja liniowa
+logarithms,2,arithmetic,Logarithms,Logarytmy
+matrices,2,algebra,Matrices,Macierze
+measures,2,measurement,"Mass, capacity and temperature","Masa, pojemność i temperatura"
+money,2,measurement,Money,Pieniądze
+multiplication-division,2,arithmetic,Multiplication and division,Mnożenie i dzielenie
+numeracy-systems,2,arithmetic,Number systems,Systemy zapisu liczb
+order-of-operations-theme,2,arithmetic,Order of operations,Kolejność działań
+patterns,2,measurement,Patterns and rhythms,Rytmy
+perimeter,2,geometry,Perimeter,Obwód
+plane-figures,2,geometry,Plane figures,Figury płaskie
+polynomials,2,algebra,Polynomials and rational expressions,Wielomiany i wyrażenia wymierne
+position-orientation,2,spatial-relations,Position and direction,Położenie i kierunek
+powers-roots,2,arithmetic,Powers and roots,Potęgi i pierwiastki
+quadratic-functions,2,algebra,Quadratic functions,Funkcja kwadratowa
+ratios-proportions,2,arithmetic,Ratios and proportions,Stosunki i proporcje
+reasoning,2,arithmetic,Mathematical reasoning,Rozumowanie matematyczne
+right-triangles,2,geometry,Right triangles,Trójkąty prostokątne
+sequences,2,algebra,Sequences and series,Ciągi
+size-comparison,2,spatial-relations,Classifying and comparing sizes,Klasyfikowanie i porównywanie wielkości
+solids,2,geometry,Solids,Bryly
+thales-similarity,2,geometry,Intercept theorem and similarity,Twierdzenie Talesa i podobieństwo
+time,2,measurement,Time and the clock,Czas i zegar
+transformations,2,geometry,Symmetry on a grid,Symetria na siatce
+trigonometry,2,geometry,Trigonometry,Trygonometria
+vectors,2,geometry,Vectors,Wektory
+word-problems,2,arithmetic,Word problems,Zadania tekstowe
+written-methods,2,arithmetic,Written algorithms,Algorytmy pisemne
+absolute-value,3,inequalities,Absolute value equations and inequalities,Równania i nierówności z wartością bezwzględną
+accumulation,3,calculus,Accumulated change from a rate,Bilans z tempa zmian
+add-subtract-hundreds,3,addition-subtraction,Add and subtract multiples of ten and hundred,Dodawanie i odejmowanie wielokrotności 10 i 100
+add-within-100-regrouping,3,addition-subtraction,Add within 100 with regrouping,Dodawanie w zakresie 100 z przekraczaniem progu
+add-within-20-no-regrouping,3,addition-subtraction,Add within 20 without regrouping,Dodawanie w zakresie 20 bez przekraczania progu
+addition-within-100,3,addition-subtraction,Addition within 100,Dodawanie w zakresie 100
+addition-within-1000,3,addition-subtraction,Sums and differences of larger numbers,Sumy i różnice większych liczb (250 + 50)
+analytic-lines,3,coordinate-plane,"Lines in the coordinate plane: intersection, perpendicular, general form","Proste w układzie współrzędnych: przecięcie, prostopadłość, postać ogólna"
+angle-classify,3,angles,Classify angles by their measure,Rodzaje kątów według miary
+angle-measure-protractor,3,angles,Measure angles with a protractor,Pomiar kąta kątomierzem
+angle-sum-polygon,3,angles,Angle sum of a triangle and a quadrilateral,Suma kątów w trójkącie i czworokącie
+angles-missing-part,3,angles,Find a missing part of an angle,"Brakująca część kąta (kąty przyległe, dopełniające)"
+area-by-tiling,3,area,Area by covering with unit squares,Pole przez wykladanie kwadratami
+area-decomposition,3,coordinate-plane,Area by decomposing a figure,Pole przez podział figury na części
+area-integral,3,calculus,Area bounded by a graph,Pole obszaru pod wykresem
+arithmetic-mean,3,data-handling,Arithmetic mean,Średnia arytmetyczna
+arithmetic-sequence,3,sequences,Arithmetic sequences: nth term and sum,Ciąg arytmetyczny: n-ty wyraz i suma
+average-rate-of-change,3,function-properties,Average rate of change,Średnie tempo zmian funkcji
+bearings,3,angles,Bearings: three-figure bearings and back bearings,Namiary (kurs): zapis trzycyfrowy i namiar odwrotny
+bernoulli-trials,3,chance,Bernoulli trials and the binomial distribution,Schemat Bernoulliego i rozkład dwumianowy
+binomial-coefficient,3,data-handling,Binomial coefficient,Symbol Newtona
+binomial-expansion,3,polynomials,Binomial expansion (x + c)^n,Rozwinięcie dwumianu Newtona
+binomial-product,3,algebraic-expressions,Multiply two binomials,Mnożenie dwumianów
+bisector-properties,3,geometry,Perpendicular bisector and angle bisector,Symetralna odcinka i dwusieczna kąta
+build-solid-models,3,solids,Build models of solids,Budowanie modeli bryl
+calendar-calculations,3,time,"Calendar calculations in days, weeks, months and years",Obliczenia kalendarzowe
+calendar-dates,3,time,Calendar and dates,Kalendarz i daty
+capacity-units,3,measures,Capacity units,"Jednostki objętości: litr, pół litra"
+chance-estimation,3,chance,Compare chances of events,Porownywanie szans
+chance-vocabulary,3,chance,"Certain, possible, impossible","Pewne, mozliwe, niemozliwe"
+chebyshev-inequality,3,chance,Bienaymé–Chebyshev and concentration inequalities,Nierówność Bienaymégo-Czebyszewa i nierówność koncentracji
+check-calculation-error,3,addition-subtraction,Find and correct a calculation error,Znajdz i popraw blad rachunkowy
+circle-equation,3,coordinate-plane,Equation of a circle,Równanie okręgu
+circle-line-intersection,3,coordinate-plane,Common points of a circle and a line,Punkty wspólne okręgu i prostej
+circle-measures,3,plane-figures,Circumference and area of a circle,Długość okręgu i pole koła
+circle-parts,3,perimeter,Radius and diameter of a circle,Promień i średnica koła
+circle-tangent-line,3,coordinate-plane,Tangent line to a circle,Styczna do okręgu
+circles-position,3,coordinate-plane,Relative position of two circles given by equations,Wzajemne położenie dwóch okręgów danych równaniami
+classify-objects,3,size-comparison,Classify objects by criteria,Klasyfikowanie przedmiotów
+classify-solids,3,solids,Classify solids by properties,Rozpoznawanie bryl
+clock-reading,3,time,Reading the clock,Odczytywanie godzin na zegarze
+combinatorics-simple,3,data-handling,Count possibilities systematically,Liczenie mozliwosci
+compare-difference,3,comparing-numbers,Difference comparison,Porównywanie różnicowe (o ile większa)
+compare-difference-ratio,3,comparing-numbers,Compare numbers by difference and by ratio,Porównywanie różnicowe i ilorazowe
+compare-size-attributes,3,size-comparison,Compare by a size attribute,Porównywanie wg cechy wielkościowej
+compare-two-distributions,3,data-handling,Compare two data sets by their means and ranges,Porównanie dwóch zestawów danych: średnia i rozstęp
+compare-within-100,3,comparing-numbers,Compare numbers within 100,Porównywanie liczb w zakresie 100
+compare-within-1000,3,comparing-numbers,Compare and order numbers within 1000,Porównywanie i porządkowanie liczb do 1000
+complex-arithmetic,3,complex-numbers,"Complex numbers: addition, subtraction, multiplication, powers of i","Liczby zespolone: dodawanie, odejmowanie, mnożenie, potęgi i"
+complex-conjugate-modulus,3,complex-numbers,"Conjugate, modulus and division of complex numbers","Sprzężenie, moduł i dzielenie liczb zespolonych"
+complex-polar-form,3,complex-numbers,Polar form of a complex number (special angles),Postać trygonometryczna liczby zespolonej (kąty szczególne)
+complex-polar-operations,3,complex-numbers,"Operations in polar form: products, quotients, de Moivre","Działania w postaci trygonometrycznej: iloczyn, iloraz, wzór de Moivre'a"
+complex-quadratic-roots,3,complex-numbers,Quadratic equations with complex solutions,Równania kwadratowe o pierwiastkach zespolonych
+compose-shapes,3,plane-figures,Compose shapes from other shapes,Skladanie figur z figur
+compose-word-problem,3,word-problems,Compose and solve own problems,Układanie własnych zadań
+compound-interest,3,ratios-proportions,Compound interest,Procent składany
+compound-measure-decimal,3,length-measurement,Write a compound measurement as a decimal,Wyrażenie dwumianowane jako ułamek dziesiętny
+compound-unit-conversion,3,measures,"Converting compound units (speed, density, pressure, rates)","Zamiana jednostek złożonych (prędkość, gęstość, ciśnienie, stawki)"
+compound-units-length,3,length-measurement,Compound length units,Wyrażenia dwumianowane długości
+conditional-probability,3,chance,Conditional probability,Prawdopodobieństwo warunkowe
+converse-statement,3,reasoning,A statement and its converse,Twierdzenie i twierdzenie odwrotne
+coordinate-distance-aligned,3,coordinate-plane,Distance between points with a common coordinate,Odległość punktów o wspólnej współrzędnej
+coordinate-distance-pythagoras,3,coordinate-plane,Distance between two points using Pythagoras,Odległość punktów z twierdzenia Pitagorasa
+coordinate-point-read,3,coordinate-plane,Read and plot points in the coordinate plane,Odczytywanie i zaznaczanie punktów w układzie współrzędnych
+coordinate-transformations,3,coordinate-plane,"Translations, rotations and dilations in coordinates","Przesunięcie, obrót i jednokładność w układzie współrzędnych"
+correlation-coefficient,3,data-handling,Linear correlation coefficient,Współczynnik korelacji liniowej
+count-objects,3,numeracy-systems,Count objects and write how many,Przeliczanie przedmiotow
+counterexample,3,reasoning,Disproving a statement with a counterexample,Obalanie zdania kontrprzykładem
+counting-in-steps,3,numeracy-systems,Counting in steps forwards and backwards,Liczenie w przód i wstecz o stały krok
+counting-rules,3,data-handling,"Counting with the multiplication and addition rules, permutations","Reguła mnożenia i dodawania, permutacje, wariacje"
+counting-with-conditions,3,divisibility,Count numbers in a range that meet conditions,Liczebność zbioru liczb z warunków
+cross-product,3,vectors,Cross product of vectors in space,Iloczyn wektorowy wektorów w przestrzeni
+cuboid-surface-area,3,solids,Surface area of a cuboid,Pole powierzchni prostopadłościanu
+cuboid-volume,3,solids,Volume of a cuboid (rectangular prism),Objętość prostopadłościanu
+cyclic-tangential-quadrilateral,3,circle-geometry,Cyclic and tangential quadrilaterals,Czworokąt wpisany w okrąg i opisany na okręgu
+cylinder-cone-sphere,3,solids,"Volume of cylinders, cones and spheres","Objętość walca, stożka i kuli"
+data-collection,3,data-handling,Collect and organise data,Zbieranie danych
+data-distribution-compare,3,data-handling,"Shape, centre and spread of data; outliers","Kształt, położenie i rozrzut danych; obserwacje odstające"
+data-interpretation,3,data-handling,Read data from a representation,Odczyt danych z zestawienia
+data-median,3,data-handling,Median of a data set,Mediana zestawu danych
+data-mode,3,data-handling,Mode of a data set,Dominanta zestawu danych
+data-plot-read,3,data-handling,Read dot plots and box plots,Odczyt wykresu kropkowego i pudełkowego
+data-range,3,data-handling,"Minimum, maximum and range","Najmniejsza i największa wartość, rozstęp"
+data-read-charts,3,data-handling,Read and compare data in charts and tables,Odczyt i porównywanie danych z diagramów i tabel
+data-storage-units,3,measures,"Units of digital storage (kB, MB, GB)","Jednostki pamięci cyfrowej (kB, MB, GB)"
+data-tables-charts,3,data-handling,Show data in tables and charts,Dane w tabeli i na diagramie
+data-variance,3,data-handling,Variance and standard deviation of data,Wariancja i odchylenie standardowe
+decimal-add-subtract,3,decimal-fractions,Add and subtract decimals,Dodawanie i odejmowanie ułamków dziesiętnych
+decimal-divide,3,decimal-fractions,Divide decimals,Dzielenie ułamków dziesiętnych
+decimal-multiply,3,decimal-fractions,Multiply decimals,Mnożenie ułamków dziesiętnych
+decimal-place-value,3,decimal-fractions,"Read and write decimals (tenths, hundredths, thousandths)",Zapis i odczyt ułamków dziesiętnych
+decimal-times-power-of-ten,3,decimal-fractions,"Multiply and divide decimals by 10, 100, 1000","Mnożenie i dzielenie ułamków dziesiętnych przez 10, 100, 1000"
+decimal-to-fraction,3,decimal-fractions,Write a decimal as a fraction,Zamiana ułamka dziesiętnego na zwykły
+decimals-compare,3,decimal-fractions,Compare decimals,Porównywanie ułamków dziesiętnych
+decimals-on-number-line,3,decimal-fractions,Decimals on a number line,Ułamki dziesiętne na osi liczbowej
+decimals-round,3,decimal-fractions,Round decimals,Zaokrąglanie ułamków dziesiętnych
+density-modeling,3,solids,Density in modeling,Gęstość w zadaniach z modelowania
+derivative-graph,3,calculus,Graph of a function and graph of its derivative,Wykres funkcji a wykres jej pochodnej
+derivatives,3,calculus,"Derivatives: power, product and chain rules",Pochodna funkcji
+differential-equation-linear,3,calculus,Linear differential equations y′ = ay + b,Równania różniczkowe liniowe y′ = ay + b
+directional-lines,3,position-orientation,"Vertical, horizontal, oblique","Pion, poziom, skos"
+distance-speed-time,3,measures,"Distance, speed and time","Droga, prędkość i czas"
+distributive-property,3,algebraic-expressions,Expand and factor with the distributive property,Mnożenie przez nawias i wyłączanie przed nawias
+divisibility-rules,3,divisibility,"Divisibility rules (2, 3, 4, 5, 9, 10)","Cechy podzielności przez 2, 3, 4, 5, 9, 10"
+division-table,3,multiplication-division,Division within the table,Dzielenie w zakresie tabliczki
+dot-product,3,vectors,Dot product,Iloczyn skalarny
+dot-product-space,3,vectors,"Dot product in space: angle between vectors, perpendicularity","Iloczyn skalarny w przestrzeni: kąt między wektorami, prostopadłość"
+draw-segments,3,plane-figures,Draw segments and polylines with a ruler,Kreślenie odcinków i łamanych
+elapsed-time-hms,3,time,"Clock calculations in hours, minutes and seconds","Obliczenia zegarowe: godziny, minuty, sekundy"
+ellipse-hyperbola-foci,3,coordinate-plane,Ellipse and hyperbola: foci from the canonical equation,Elipsa i hiperbola: ogniska z równania kanonicznego
+equation-both-sides,3,linear-equations,Solve equations with the unknown on both sides,Równania z niewiadomą po obu stronach
+equation-check-solution,3,linear-equations,Check whether a number solves an equation,"Sprawdzanie, czy liczba jest rozwiązaniem równania"
+equation-from-context,3,linear-equations,Write and solve an equation from a word problem,Równanie z treści zadania
+equation-one-step,3,linear-equations,Solve one-step equations,Równania z jednym działaniem
+equation-two-step,3,linear-equations,Solve two-step linear equations,Równania liniowe dwukrokowe (ax + b = c)
+estimate-calculation,3,written-methods,Estimate the result of a calculation,Szacowanie wyników działań
+estimation-everyday,3,everyday-strategy,Estimation in everyday situations,Obliczenia szacunkowe
+events-independence,3,chance,Independent events,Niezależność zdarzeń
+expected-value,3,chance,Expected value of a discrete random variable,Wartość oczekiwana zmiennej losowej
+exponential-equation,3,exponential-functions,Exponential equations with a common base,Równanie wykładnicze o wspólnej podstawie
+exponential-function-value,3,exponential-functions,Value of an exponential function,Wartość funkcji wykładniczej
+exponential-vs-linear,3,exponential-functions,Exponential growth eventually exceeds linear growth,Wzrost wykładniczy wyprzedza liniowy
+expression-evaluate,3,algebraic-expressions,Evaluate an algebraic expression,Wartość liczbowa wyrażenia algebraicznego
+expression-from-words,3,algebraic-expressions,Write an algebraic expression from a description,Zapisywanie wyrażeń algebraicznych ze słów
+expression-simple-evaluate,3,algebraic-expressions,Evaluate simple expressions and formulas with letters,Wartość prostego wyrażenia i wzoru z literami
+expression-structure,3,algebraic-expressions,Structure of expressions: parts and their meaning,Budowa wyrażenia: części i ich znaczenie
+factors-and-multiples,3,divisibility,Factors and multiples of a whole number,Dzielniki i wielokrotności liczby naturalnej
+figure-recognition,3,plane-figures,Recognise plane figures,Rozpoznawanie figur geometrycznych
+formula-rearrange,3,linear-equations,Rearrange a simple formula for a given letter,Przekształcanie prostych wzorów
+fraction-add-subtract-like,3,common-fractions,Add and subtract fractions with like denominators,Dodawanie i odejmowanie ułamków o jednakowych mianownikach
+fraction-add-subtract-unlike,3,common-fractions,Add and subtract fractions with unlike denominators,Dodawanie i odejmowanie ułamków o różnych mianownikach
+fraction-as-division,3,common-fractions,A fraction as division of whole numbers,Ułamek jako iloraz liczb naturalnych
+fraction-common-denominator,3,common-fractions,Bring fractions to a common denominator,Sprowadzanie ułamków do wspólnego mianownika
+fraction-divide-fraction,3,common-fractions,Divide fractions by fractions,Dzielenie ułamków przez ułamki
+fraction-divide-unit-whole,3,common-fractions,Divide a unit fraction by a whole number and a whole number by a unit fraction,Dzielenie ułamka jednostkowego przez liczbę i liczby przez ułamek jednostkowy
+fraction-expand,3,common-fractions,Expand a fraction (equivalent fraction with a larger denominator),Rozszerzanie ułamków
+fraction-multiplication-scaling,3,common-fractions,Multiplication by a fraction as scaling,Mnożenie przez ułamek jako zmiana wielkości
+fraction-of-quantity,3,common-fractions,Find a fraction of a quantity,Ułamek danej wielkości
+fraction-part-whole,3,numeracy-systems,Halves and quarters,Połowa i ćwierć całości
+fraction-simplify,3,common-fractions,Simplify a fraction,Skracanie ułamków
+fraction-times-fraction,3,common-fractions,Multiply fractions,Mnożenie ułamków przez ułamki
+fraction-times-whole,3,common-fractions,Multiply a fraction by a whole number,Mnożenie ułamka przez liczbę naturalną
+fraction-to-decimal,3,decimal-fractions,Write a fraction as a terminating decimal,Zamiana ułamka zwykłego na dziesiętny
+fraction-to-repeating-decimal,3,decimal-fractions,Write a fraction as a repeating decimal,Rozwinięcie dziesiętne nieskończone ułamka zwykłego
+fractions-compare,3,numeracy-systems,Equivalent fractions and comparing fractions,Ulamki rowne i porownywanie ulamkow
+fractions-on-number-line,3,common-fractions,Fractions on a number line,Ułamki na osi liczbowej
+function-comparison,3,function-properties,Comparing functions given in different ways,Porównywanie funkcji opisanych na różne sposoby
+function-composition,3,function-properties,Composition of functions,Złożenie funkcji
+function-graph-reading,3,function-properties,Reading properties of a function from its graph,Odczytywanie własności funkcji z wykresu
+function-limits,3,calculus,Limits of functions,Granica funkcji
+function-table,3,patterns,Complete a function table,Tabela zaleznosci
+geometric-constructions,3,geometry,Compass and straightedge constructions,Konstrukcje cyrklem i linijką
+geometric-constructions-circle,3,circle-geometry,"Constructions with a circle: inscribed polygons, tangents from a point","Konstrukcje z okręgiem: wielokąty wpisane, styczne z punktu"
+geometric-design-optimization,3,quadratic-functions,Design problems: the best shape under a constraint,Projekt z ograniczeniem: najlepszy kształt
+geometric-sequence,3,sequences,Geometric sequences: nth term and sum,Ciąg geometryczny: n-ty wyraz i suma
+geometric-series,3,sequences,Sum of a convergent geometric series,Suma szeregu geometrycznego
+graph-change-over-time,3,linear-functions,Interpret a graph of change over time,Odczyt wykresu zmiany w czasie
+graph-euler-formula,3,graph-theory,Euler's formula for planar graphs,Wzór Eulera dla grafów płaskich
+graph-reflections,3,function-properties,Graphs of y = −f(x) and y = f(−x),Wykresy funkcji y = −f(x) i y = f(−x)
+graph-shortest-path,3,graph-theory,Shortest path in a weighted graph,Najkrótsza droga w grafie z wagami
+graph-transformations,3,function-properties,Translations of a graph,Przesunięcie wykresu funkcji
+greatest-common-factor,3,divisibility,Greatest common factor,Największy wspólny dzielnik (NWD)
+grouped-frequency-mean,3,data-handling,Mean from a frequency table (grouped data),Średnia z tabeli liczebności (dane pogrupowane)
+inscribed-central-angles,3,circle-geometry,Inscribed and central angles,Kąty wpisane i środkowe
+integers-add-subtract,3,integers,Add and subtract integers,Dodawanie i odejmowanie liczb całkowitych
+integers-compare,3,integers,Compare and order integers,Porównywanie liczb całkowitych
+integers-distance,3,integers,Distance on a number line and absolute value,Odległość liczb całkowitych na osi i wartość bezwzględna
+integers-in-context,3,integers,Positive and negative numbers in context,Liczby dodatnie i ujemne w sytuacjach z życia
+integers-on-number-line,3,integers,Integers and opposites on a number line,Liczby całkowite i przeciwne na osi liczbowej
+integrals,3,calculus,Antiderivatives and definite integrals,Funkcja pierwotna i całka oznaczona
+interval-notation,3,inequalities,Intervals on the number line and interval notation,Przedziały liczbowe na osi i ich zapis
+inverse-function,3,function-properties,Inverse of a linear function,Funkcja odwrotna do liniowej
+inverse-operations,3,reasoning,Undoing operations (working backwards),Odwracanie działań (liczba pomyślana)
+inverse-operations-check,3,multiplication-division,Relations between operations,Związki między działaniami
+inverse-proportion,3,ratios-proportions,Inverse proportion,Proporcjonalność odwrotna
+kilometer-concept,3,length-measurement,The kilometre,Pojęcie kilometra
+lattice-points-on-line,3,coordinate-plane,Lattice points on a line,Punkty kratowe na prostej
+lattice-polygon-area,3,coordinate-plane,Area and perimeter of lattice polygons,Pole i obwód wielokąta w układzie współrzędnych
+law-of-cosines-sines,3,trigonometry,"Laws of cosines and sines, area with sine","Twierdzenie cosinusów i sinusów, pole z sinusem"
+least-common-multiple,3,divisibility,Least common multiple,Najmniejsza wspólna wielokrotność (NWW)
+like-terms,3,algebraic-expressions,Combine like terms,Redukcja wyrazów podobnych
+line-objects,3,angles,"Line segments, rays and lines","Odcinek, półprosta, prosta"
+line-parabola-system,3,quadratic-functions,System of a linear and a quadratic equation,Układ równania liniowego i kwadratowego
+line-plane-position,3,vectors,A line and a plane: relative position and intersection point,Prosta i płaszczyzna: wzajemne położenie i punkt przecięcia
+line-plot-fraction-difference,3,data-handling,Solve problems with fractional line plots,Wykres liniowy ułamków — różnica pomiarów
+line-plot-fraction-total,3,data-handling,Combine measurements from a fractional line plot,Wykres liniowy ułamków — suma pomiarów
+linear-approximation,3,calculus,Linear approximation with the derivative,Przybliżenie liniowe pochodną
+linear-equation-special,3,linear-equations,Equations with no solution or infinitely many,Równanie sprzeczne i tożsamościowe
+linear-function-from-points,3,linear-functions,Equation of a line from points or a parallel line,Wzór funkcji liniowej z punktów lub prostej równoległej
+linear-function-point-check,3,linear-functions,Check whether a point lies on the graph of a linear function,"Sprawdzanie, czy punkt należy do wykresu funkcji liniowej"
+linear-function-slope,3,linear-functions,Slope and y-intercept of a linear function,Współczynnik kierunkowy i wyraz wolny funkcji liniowej
+linear-function-value,3,linear-functions,Evaluate a linear function,Wartość funkcji liniowej dla danego argumentu
+linear-function-zero,3,linear-functions,Zero of a linear function,Miejsce zerowe funkcji liniowej
+linear-inequality,3,inequalities,Linear inequalities in one variable,Nierówność liniowa z jedną niewiadomą
+linear-inequality-two-variables,3,inequalities,Linear inequalities in two variables as half-planes,Nierówność liniowa z dwiema niewiadomymi — półpłaszczyzna
+linear-model-meaning,3,linear-functions,Meaning of the coefficients of a linear model,Interpretacja współczynników funkcji liniowej
+linear-model-scatter,3,linear-functions,Predict with a line of fit on a scatter plot,Przewidywanie z prostej dopasowanej do danych
+linear-programming,3,inequalities,Linear programming,Programowanie liniowe
+linear-system-3x3,3,linear-equations,Systems of three linear equations (Gaussian elimination),Układ trzech równań liniowych (metoda Gaussa)
+linear-system-elimination,3,linear-equations,"Systems of two linear equations (elimination, type)","Układ dwóch równań liniowych (metody, liczba rozwiązań)"
+linear-system-two,3,linear-equations,Systems of two linear equations,Układ dwóch równań liniowych
+linear-system-word-problems,3,linear-equations,Word problems solved with a system of two equations,Zadania tekstowe rozwiązywane układem dwóch równań
+lines-in-space,3,vectors,"Lines in space: parametric form, distance between points","Prosta w przestrzeni: postać parametryczna, odległość punktów"
+lines-parallel-perpendicular,3,angles,Parallel and perpendicular segments on a grid,Odcinki równoległe i prostopadłe na kratce
+lines3-position,3,vectors,"Two lines in space: parallel, intersecting or skew","Dwie proste w przestrzeni: równoległe, przecinające się, skośne"
+logarithm-change-base,3,logarithms,Change of base of a logarithm,Zamiana podstawy logarytmu
+logarithm-evaluate,3,logarithms,Logarithm from the definition,Logarytm z definicji
+logarithm-rules,3,logarithms,"Logarithm of a product, quotient and power","Logarytm iloczynu, ilorazu i potęgi"
+logic-games,3,everyday-strategy,Board and logic games,Gry planszowe i logiczne
+long-division-one-digit,3,written-methods,Long division by a one-digit number (with remainder),Dzielenie pisemne przez liczbę jednocyfrową
+long-division-two-digit,3,written-methods,Long division by a two-digit number,Dzielenie pisemne przez liczbę dwucyfrową
+markov-limit,3,matrices,Transition matrices: fixed vector and limit matrix,Macierz przejścia: wektor stały i macierz graniczna
+mass-units,3,measures,Mass units,"Jednostki masy: gram, dekagram, kilogram, tona"
+matrix-determinant-3x3,3,matrices,Determinant of a 3×3 matrix,Wyznacznik macierzy 3×3
+matrix-determinant-inverse,3,matrices,Determinant and inverse of a 2×2 matrix,Wyznacznik i macierz odwrotna 2×2
+matrix-linear-systems,3,matrices,Solving linear systems with matrices,Rozwiązywanie układów równań macierzą odwrotną
+matrix-operations,3,matrices,"Matrix operations: linear combinations, products, matrix times vector","Działania na macierzach: kombinacja liniowa, iloczyn, macierz razy wektor"
+matrix-powers,3,matrices,Powers of matrices (multi-step processes),Potęgi macierzy (procesy wieloetapowe)
+matrix-transformations,3,matrices,2×2 matrices as transformations of the plane,Macierz 2×2 jako przekształcenie płaszczyzny
+measure-mm-cm-m,3,length-measurement,"Measure in mm, cm and m","Pomiar długości: milimetr, centymetr, metr"
+measurement-accuracy,3,measures,Quantities and accuracy of measurement,Wielkości i dokładność pomiaru
+mental-calculation-properties,3,addition-subtraction,Calculate smartly using properties of operations,Rachunek sprytny: własności działań
+mental-transformations,3,transformations,"Fold, turn and mirror in the mind",Skladanie i obracanie w wyobrazni
+mixed-number-conversion,3,common-fractions,Improper fractions and mixed numbers,Ułamek niewłaściwy i liczba mieszana
+modeling-constraints,3,inequalities,Constraints as a system of inequalities; viable options,Ograniczenia jako układ nierówności; możliwe warianty
+modeling-inequality-one-variable,3,inequalities,Modelling a situation with an inequality in one variable,Nierówność z jedną niewiadomą ułożona z sytuacji
+modeling-linear-relation,3,linear-functions,A relationship between two quantities as a linear function,Zależność dwóch wielkości jako funkcja liniowa
+modeling-with-solids,3,solids,Describing real objects with solids,Obiekty opisane bryłami
+money-calculations,3,money,"Money calculations: budget, change and the better deal",Obliczenia pieniężne: budżet i opłacalność
+money-shopping-change,3,money,Money calculations,Obliczenia pieniężne i reszta
+money-units-conversion,3,money,Zloty and grosz conversion,Zamiana złotych na grosze
+monotonicity-extrema,3,calculus,Monotonicity and extrema,Monotoniczność i ekstrema funkcji
+multiplication-rule-counting,3,data-handling,Count pairs with the multiplication rule,Reguła mnożenia przy zliczaniu par
+multiplication-table,3,multiplication-division,Multiplication table to 100,Tabliczka mnożenia
+multiply-by-ten,3,multiplication-division,Multiply numbers below 20 by ten,Mnożenie przez 10 liczb mniejszych od 20
+multiply-by-tens,3,multiplication-division,Multiply a one-digit number by a multiple of 10,Mnozenie przez pelne dziesiatki
+multiply-two-digit-by-two,3,multiplication-division,Multiply a two-digit number by two,Mnożenie liczby dwucyfrowej przez 2
+natural-logarithm,3,logarithms,"Natural logarithm: antiderivative of 1/x, inverse of e^x","Logarytm naturalny: funkcja pierwotna 1/x, odwrotna do e^x"
+normal-distribution,3,chance,"Normal distribution: z-scores, the table, the 68–95–99.7 rule","Rozkład normalny: standaryzacja, tablica, reguła 68–95–99,7"
+number-bases,3,numeracy-systems,Positional number systems in other bases (binary),Pozycyjne systemy liczbowe o innej podstawie (dwójkowy)
+number-line,3,numeracy-systems,Numbers on a number line,Liczby na osi liczbowej
+number-line-inequality,3,integers,Integers satisfying an inequality,Liczby całkowite spełniające nierówność
+number-pattern-rule,3,patterns,Generate and extend number patterns from a rule,Ciąg liczbowy według reguły
+number-word-form,3,numeracy-systems,Read and write numbers to 1000,Odczyt i zapis liczb do 1000
+numerical-iteration,3,polynomials,Solving equations approximately by iteration,Przybliżone rozwiązywanie równań metodą iteracji
+odd-even,3,numeracy-systems,Odd and even numbers,Liczby parzyste i nieparzyste
+operation-properties,3,addition-subtraction,Properties of operations,Własności działań
+optimization,3,calculus,Optimization problems,Zadania optymalizacyjne
+order-of-operations,3,order-of-operations-theme,Two-step order of operations,Kolejność działań (dwa działania)
+order-of-operations-brackets,3,order-of-operations-theme,Order of operations with brackets,Kolejność działań z nawiasami
+ordinal-numbers,3,numeracy-systems,Ordinal numbers,Liczba porządkowa
+parallelogram-area,3,area,Area of a parallelogram,Pole równoległoboku
+patterns-rhythms,3,patterns,Notice and continue a rhythm,Dostrzeganie i kontynuowanie rytmu
+percent-change,3,ratios-proportions,Percent increase and decrease,Podwyżki i obniżki o procent
+percent-find-whole,3,ratios-proportions,Find a number from its percentage,Liczba na podstawie danego jej procentu
+percent-of-quantity,3,ratios-proportions,Find a percentage of a quantity,Procent danej wielkości
+percent-what-percent,3,ratios-proportions,What percent one number is of another,Jakim procentem jednej liczby jest druga
+perimeter-rectangle,3,perimeter,Perimeter of a rectangle,Obwód prostokąta
+perimeter-square,3,perimeter,Perimeter of a square,Obwód kwadratu
+perimeter-triangle,3,perimeter,Perimeter of a triangle,Obwód trójkąta
+periodic-functions,3,trigonometry,Period and amplitude of a sine curve,Okres i amplituda sinusoidy
+pie-chart-angle,3,data-handling,Pie charts: angle of a sector and frequency,Diagram kołowy: kąt wycinka i liczebność
+place-value-3digit,3,numeracy-systems,Place value of a three-digit number,Znaczenie cyfr w zapisie liczby
+place-value-multidigit,3,numeracy-systems,"Read, write and compare multi-digit whole numbers",Zapis i porównywanie liczb wielocyfrowych
+place-value-tens-ones,3,numeracy-systems,Tens and ones of a two-digit number,Dziesiatki i jednosci
+placeholder-equation,3,order-of-operations-theme,Equation with a box,Równanie z niewiadomą w okienku
+plane-transformations,3,coordinate-plane,"Reflections, rotations and translations of polygons in coordinates","Symetrie, obroty i przesunięcia wielokątów w układzie współrzędnych"
+planes-in-space,3,vectors,"Planes in space: equation from a point and a normal vector, distance from a point","Płaszczyzna w przestrzeni: równanie z punktu i wektora normalnego, odległość punktu od płaszczyzny"
+point-line-distance,3,coordinate-plane,Distance from a point to a line,Odległość punktu od prostej
+poisson-distribution,3,chance,Poisson distribution: probability of k events,Rozkład Poissona: prawdopodobieństwo k zdarzeń
+polar-coordinates,3,coordinate-plane,Polar coordinates of a point,Współrzędne biegunowe punktu
+polygon-diagonals,3,angles,Count the diagonals of a polygon,Przekątne wielokąta
+polygon-perimeter,3,perimeter,Perimeter of a polygon and a missing side,Obwód wielokąta i brakujący bok
+polynomial-division,3,polynomials,Dividing a polynomial by x − a; remainder theorem,Dzielenie wielomianu przez dwumian x − a
+polynomial-equation,3,polynomials,Polynomial equations from factored form,Równanie wielomianowe
+polynomial-factoring,3,polynomials,"Factoring polynomials: common factor, grouping, cubes",Rozkład wielomianu na czynniki
+polynomial-graph-zeros,3,polynomials,Zeros of a polynomial from its graph,Pierwiastki wielomianu z wykresu
+polynomial-inequality,3,inequalities,Polynomial inequalities (sign chart),Nierówność wielomianowa
+polynomial-integer-roots,3,polynomials,Integer roots of a polynomial with integer coefficients,Pierwiastki całkowite wielomianu o współczynnikach całkowitych
+polynomial-operations,3,polynomials,"Adding, subtracting and multiplying polynomials","Dodawanie, odejmowanie i mnożenie wielomianów"
+polynomial-root-count,3,polynomials,Number of complex roots of a polynomial (with multiplicity),Liczba pierwiastków zespolonych wielomianu (z krotnościami)
+power-monotonicity,3,exponential-functions,Comparing powers with the same base (monotonicity),Porównywanie potęg o tej samej podstawie (monotoniczność)
+power-rules,3,powers-roots,Properties of exponents,Działania na potęgach
+powers-evaluate,3,powers-roots,Evaluate powers of rational numbers,Potęgi liczb wymiernych o wykładnikach naturalnych
+powers-negative-exponent,3,powers-roots,Negative exponents,Potęgi o wykładniku całkowitym ujemnym
+powers-whole-fraction,3,powers-roots,"Squares and cubes of whole numbers, fractions and decimals",Kwadraty i sześciany liczb naturalnych i ułamków
+prime-composite,3,divisibility,Prime and composite numbers,Liczby pierwsze i złożone
+prime-factorization,3,divisibility,Prime factorization,Rozkład liczby na czynniki pierwsze
+prism-volume-surface,3,solids,Volume and surface area of right prisms,Objętość i pole powierzchni graniastosłupa prostego
+probability-addition-rule,3,chance,Probability of a union of events,Prawdopodobieństwo sumy zdarzeń
+probability-combinatorial,3,chance,Classical probability with combinatorics,Prawdopodobieństwo klasyczne z kombinatoryką
+probability-single-event,3,chance,Probability of an event in a simple experiment,Prawdopodobieństwo zdarzenia w prostym doświadczeniu
+probability-two-stage,3,chance,Probability in two-stage experiments,Prawdopodobieństwo w doświadczeniu dwuetapowym
+proportion-equation,3,ratios-proportions,"Direct and inverse proportion equations (y = kxⁿ, y = k/xⁿ)","Równanie proporcjonalności prostej i odwrotnej (y = kxⁿ, y = k/xⁿ)"
+proportion-missing-value,3,ratios-proportions,Solve a proportion with a missing value,Proporcja z brakującą wartością
+proportional-division,3,ratios-proportions,Divide a quantity in a given ratio,Podział proporcjonalny
+pyramid-slant-height,3,solids,Slant height of a regular pyramid,Wysokość ściany bocznej ostrosłupa
+pyramid-volume-surface,3,solids,Volume and surface area of regular pyramids,Objętość i pole powierzchni ostrosłupa prawidłowego
+pythagoras,3,right-triangles,The Pythagorean theorem,Twierdzenie Pitagorasa
+quadratic-equation,3,polynomials,Quadratic equations,Równanie kwadratowe
+quadratic-extreme-interval,3,quadratic-functions,Greatest and least value on a closed interval,Najmniejsza i największa wartość w przedziale
+quadratic-formula-from-graph,3,quadratic-functions,Quadratic function from its graph,Wzór funkcji kwadratowej na podstawie wykresu
+quadratic-function-value,3,quadratic-functions,Value of a quadratic function,Wartość funkcji kwadratowej
+quadratic-graph-sketch,3,quadratic-functions,Sketching the graph of a quadratic function,Szkic wykresu funkcji kwadratowej
+quadratic-inequality,3,inequalities,Quadratic inequalities,Nierówność kwadratowa
+quadratic-parameter,3,quadratic-functions,Quadratic equations with a parameter,Równania kwadratowe z parametrem
+quadratic-vertex-form,3,quadratic-functions,Vertex and vertex form of a parabola,Wierzchołek paraboli i postać kanoniczna
+quadrilateral-angle-properties,3,geometry,"Angles and diagonals of parallelograms, rhombuses and trapezoids","Kąty i przekątne równoległoboków, rombów i trapezów"
+quadrilateral-classify,3,angles,Name quadrilaterals by their properties,Rodzaje czworokątów
+radian-measure,3,trigonometry,Radian measure,Miara łukowa kąta
+ratio-simplify,3,ratios-proportions,Write a ratio in simplest form,Stosunek dwóch wielkości w postaci nieskracalnej
+rational-equation,3,polynomials,Rational and radical equations,Równanie wymierne i pierwiastkowe
+rational-exponents,3,powers-roots,Powers with rational exponents,Potęga o wykładniku wymiernym
+rational-expressions,3,polynomials,Operations on rational expressions,Działania na wyrażeniach wymiernych
+rational-multistep,3,common-fractions,Solve multi-step problems with fractions of a remainder,Zadania wielokrokowe: ułamek reszty
+reciprocal-function,3,function-properties,The function f(x) = a/x,Funkcja f(x) = a/x
+rectangle-area,3,area,Area of a rectangle and a missing side,Pole prostokąta i brakujący bok
+redundant-data,3,word-problems,Choose the data that matter,Dobór danych potrzebnych do rozwiązania
+regular-polygon-angle,3,angles,Interior angle of a regular polygon,Kąt wewnętrzny wielokąta foremnego
+regular-polygon-properties,3,geometry,Properties of regular polygons,Własności wielokątów foremnych
+relative-frequency-estimate,3,chance,Predict outcomes from probability,Przewidywanie liczby wyników z prawdopodobieństwa
+relative-frequency-from-trials,3,chance,Estimate probability from relative frequency,Prawdopodobieństwo szacowane częstością względną
+repeating-decimal-to-fraction,3,decimal-fractions,Convert a repeating decimal to a fraction,Zamiana ułamka okresowego na zwykły
+right-triangle-trig,3,trigonometry,Solving right triangles with trigonometry,Trójkąt prostokątny — funkcje trygonometryczne
+roman-numerals,3,numeracy-systems,Roman numerals I-XII,Znaki rzymskie do XII
+roman-numerals-3000,3,numeracy-systems,Roman numerals up to 3000,Liczby w systemie rzymskim do 3000
+root-rules,3,powers-roots,Properties of roots,Działania na pierwiastkach
+roots-estimate,3,powers-roots,Estimate square roots,Szacowanie wartości pierwiastków
+roots-evaluate,3,powers-roots,Square and cube roots,Pierwiastki kwadratowe i sześcienne
+roots-nth,3,powers-roots,"Roots of any index, including odd roots of negatives",Pierwiastki dowolnego stopnia
+rotational-symmetry,3,angles,Rotations that carry a figure onto itself,Obroty przeprowadzające figurę na siebie
+round-solids-surface,3,solids,"Surface area of cylinders, cones and spheres","Pole powierzchni walca, stożka i kuli"
+round-whole-numbers,3,numeracy-systems,Round whole numbers to any place,Zaokrąglanie liczb naturalnych
+rounding-10-100,3,numeracy-systems,Round to the nearest 10 or 100,Zaokraglanie do 10 i 100
+sample-to-population,3,data-handling,Draw conclusions about a population from a sample,Wnioskowanie z próby o całej grupie
+sampling-inference,3,data-handling,From a random sample to the population: proportion and margin of error,Z próby losowej na populację: frakcja i margines błędu
+scale-length,3,length-measurement,Use a scale to find real or map length,Długość w skali i rzeczywista
+scaling-grid,3,plane-figures,Draw rectangles on a square grid,Rysowanie prostokątów na sieci kwadratowej
+scientific-notation,3,powers-roots,Scientific notation,Notacja wykładnicza
+sector-arc,3,circle-geometry,Area of a sector and arc length,Pole wycinka i długość łuku
+segment-midpoint,3,coordinate-plane,Midpoint of a segment in coordinates,Środek odcinka w układzie współrzędnych
+segment-partition,3,coordinate-plane,Dividing a segment in a given ratio,Podział odcinka w danym stosunku
+sequence-limit,3,sequences,Limit of a sequence,Granica ciągu
+sequence-monotonicity,3,sequences,Increasing and decreasing sequences,Monotoniczność ciągu
+sequence-nth-term,3,sequences,The nth term rule of a linear or quadratic sequence,Wzór ogólny ciągu liniowego i kwadratowego
+sequence-terms,3,sequences,Terms of a sequence from a formula or recursion,Wyrazy ciągu ze wzoru ogólnego i rekurencyjnego
+signed-add-subtract-rational,3,integers,Add and subtract signed decimals and fractions,Dodawanie i odejmowanie liczb wymiernych ze znakami
+signed-multiply-divide,3,integers,Multiply and divide signed numbers,Mnożenie i dzielenie liczb ujemnych (reguły znaków)
+significant-figures,3,decimal-fractions,Round to significant figures,Zaokrąglanie do cyfr znaczących
+similar-figures-ratios,3,thales-similarity,Perimeters and areas of similar figures,Obwody i pola figur podobnych
+similar-solids,3,solids,Volumes of similar solids,Objętości brył podobnych
+similar-triangles-criteria,3,thales-similarity,Similar triangles: angle-angle criterion and scale factor,Cechy podobieństwa trójkątów (kk) i skala
+simple-interest,3,ratios-proportions,Simple interest,Odsetki od lokaty rocznej
+solid-angles,3,solids,"Angles in prisms and pyramids (line and plane, dihedral)","Kąty w graniastosłupach i ostrosłupach (prosta i płaszczyzna, kąt dwuścienny)"
+solid-cross-sections,3,solids,Cross-sections of solids,Przekroje brył
+solid-elements,3,solids,"Vertices, edges and faces of prisms and pyramids","Wierzchołki, krawędzie i ściany graniastosłupów i ostrosłupów"
+solid-nets,3,solids,Nets of solids,Siatki brył
+solid-recognition,3,solids,"Recognising prisms, pyramids, cylinders, cones and spheres","Rozpoznawanie graniastosłupów, ostrosłupów, walców, stożków i kul"
+solid-sections-area,3,solids,Areas of sections of solids,Pole przekroju bryły
+solid-segments,3,solids,"Diagonals, edges and slant heights in solids","Przekątne, krawędzie i tworzące w bryłach"
+solids-nets,3,solids,Solid and its net,Bryla i jej siatka
+solids-of-revolution,3,solids,Solids of revolution from rotating plane figures,Bryły obrotowe z obrotu figur płaskich
+spatial-directions,3,position-orientation,Directions in space and on paper,Kierunki i wzajemne położenie przedmiotów
+spatial-position-words,3,position-orientation,Position from another viewpoint,Położenie z perspektywy innej osoby
+special-products,3,algebraic-expressions,Special product formulas,Wzory skróconego mnożenia
+special-right-triangles,3,right-triangles,"Special right triangles (45-45-90, 30-60-90)","Trójkąty prostokątne szczególne (45°, 30° i 60°)"
+subtract-within-100-basic,3,addition-subtraction,Subtract within 100,Odejmowanie liczb dwucyfrowych
+subtraction-within-100,3,addition-subtraction,Subtraction within 100,Odejmowanie w zakresie 100
+successor-predecessor,3,numeracy-systems,Successor and predecessor,Następnik i poprzednik liczby
+symmetry-axial,3,angles,Line symmetry: axes and reflected points,Symetria osiowa
+symmetry-central,3,angles,Point symmetry,Symetria środkowa
+symmetry-grid,3,transformations,Notice symmetry,Dostrzeganie symetrii
+tangent-chord,3,circle-geometry,Tangent segments and chords,Odcinek stycznej i cięciwa
+tangent-line-derivative,3,calculus,Tangent line from the derivative,Styczna do wykresu z pochodnej
+temperature-reading,3,measures,Read a thermometer,Pomiar i odczyt temperatury
+thales-theorem,3,thales-similarity,Intercept theorem,Twierdzenie Talesa
+three-perpendiculars,3,solids,The three perpendiculars theorem,Twierdzenie o trzech prostopadłych
+time-duration,3,time,Simple time calculations,Proste obliczenia czasu
+total-probability-bayes,3,chance,Total probability and Bayes' formula,Prawdopodobieństwo całkowite i wzór Bayesa
+trapezoid-area,3,area,Area of a trapezoid,Pole trapezu
+triangle-area,3,area,Area of a triangle,Pole trójkąta
+triangle-area-coordinates,3,coordinate-plane,Area of a triangle from coordinates,Pole trójkąta ze współrzędnych
+triangle-circles,3,circle-geometry,Incircle and circumcircle of a right triangle,Okrąg wpisany i opisany na trójkącie prostokątnym
+triangle-classify,3,angles,Classify triangles by sides and angles,Rodzaje trójkątów
+triangle-congruence,3,geometry,Congruent triangles,Trójkąty przystające
+triangle-heights,3,angles,Recognise the height of a triangle,Wysokość trójkąta
+triangle-inequality,3,perimeter,Possible side lengths of a triangle,Nierówność trójkąta — możliwe długości boku
+triangle-kind-sides,3,right-triangles,"Acute, right or obtuse from the sides",Rodzaj trójkąta z długości boków
+trig-addition-formulas,3,trigonometry,"Sum, difference and double-angle formulas",Wzory na funkcje sumy i różnicy kątów oraz kąta podwojonego
+trig-equations,3,trigonometry,Basic trigonometric equations,Elementarne równania trygonometryczne
+trig-graphs,3,trigonometry,Graphs of sine and cosine,Wykresy funkcji sinus i cosinus
+trig-identities,3,trigonometry,Pythagorean identity and tan = sin/cos,Jedynka trygonometryczna i tangens
+trig-plane-figures,3,trigonometry,Trigonometry in plane figures,Trygonometria w figurach płaskich
+trig-values,3,trigonometry,"Exact values of sin, cos, tan; reduction formulas","Wartości funkcji trygonometrycznych, wzory redukcyjne"
+two-patterns-relationship,3,patterns,Compare corresponding terms of two patterns,Zależność między dwoma ciągami
+two-way-table,3,data-handling,Read and complete a two-way table,Tabela dwudzielcza — liczebności i części
+unit-benchmarks,3,everyday-strategy,Benchmarks for standard units,Wzorce wielkosci
+unit-convert-area-volume,3,measures,Convert units of area and volume,Zamiana jednostek pola i objętości
+unit-convert-capacity,3,measures,Convert units of capacity,Zamiana jednostek pojemności
+unit-convert-length,3,length-measurement,Convert units of length,Zamiana jednostek długości
+unit-convert-mass,3,measures,Convert units of mass,Zamiana jednostek masy
+unit-fractions,3,numeracy-systems,Fractions as numbers (1/b and a/b),Ulamki jako liczby
+unit-rate,3,ratios-proportions,Find a unit rate (the value for one),Wartość dla jednej jednostki
+vectors-3d,3,vectors,"Vectors in space: length, linear combinations, collinearity","Wektory w przestrzeni: długość, kombinacja liniowa, współliniowość"
+vectors-basic,3,vectors,"Vector coordinates, length and linear combinations","Współrzędne, długość i działania na wektorach"
+vectors-on-grid,3,vectors,Vectors as directed segments on a grid,Wektor jako odcinek skierowany na kratce
+venn-diagram-counts,3,chance,"Counting with Venn diagrams: union, intersection, neither","Diagram Venna: suma, część wspólna, poza zbiorami"
+vieta-formulas,3,polynomials,Vieta's formulas,Wzory Viète'a
+volume-of-revolution,3,calculus,Volume of a solid of revolution,Objętość bryły obrotowej
+weighted-mean,3,data-handling,Weighted mean,Średnia ważona
+word-problem-multistep,3,word-problems,Selected complex word problem,Zadanie tekstowe złożone
+word-problem-simple,3,word-problems,Simple word problem,Zadanie tekstowe proste
+written-add-subtract-multidigit,3,written-methods,Add and subtract multi-digit whole numbers in columns,Dodawanie i odejmowanie pisemne liczb wielocyfrowych
+written-algorithms,3,written-methods,Standard written algorithm,Dzialanie pisemne
+written-multiply-multidigit,3,written-methods,Multiply multi-digit numbers in columns,Mnożenie pisemne liczb wielocyfrowych
+written-multiply-one-digit,3,written-methods,Multiply a multi-digit number by a one-digit number in columns,Mnożenie pisemne przez liczbę jednocyfrową
+fractions-compare-unlike,4,fractions-compare,Compare fractions with different numerators and denominators,Porównywanie ułamków o różnych licznikach i mianownikach
