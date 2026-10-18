@@ -38,6 +38,11 @@
       "identifier": "10.5281/zenodo.23451760",
       "relation": "isSupplementedBy",
       "resource_type": "dataset"
+    },
+    {
+      "identifier": "10.5281/zenodo.23452239",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset"
     }
   ]
 }
