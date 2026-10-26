@@ -1,6 +1,6 @@
 {
   "license": "CC-BY-4.0",
-  "snapshot": "2026-10-19",
+  "snapshot": "2026-10-26",
   "countries": [
     "AT",
     "CH",
@@ -13,7 +13,7 @@
     "PL",
     "US"
   ],
-  "skills": 473,
+  "skills": 474,
   "curricula": 18,
-  "placements": 3836
+  "placements": 3852
 }

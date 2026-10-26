@@ -1,10 +1,10 @@
 # Imaginesis curriculum crosswalk — maths skills x national curricula x grades
 
 Mapping of the official mathematics curriculum documents of 10 school systems to one shared
-taxonomy of 417 maths skills, grade by grade. Prepared by Imaginesis (https://imaginesis.com),
+taxonomy of 418 maths skills, grade by grade. Prepared by Imaginesis (https://imaginesis.com),
 a maths worksheet generator, and used there to pick worksheet topics for each country and grade.
 
-Snapshot: 2026-10-19. License: Creative Commons Attribution 4.0 (CC BY 4.0) — cite as
+Snapshot: 2026-10-26. License: Creative Commons Attribution 4.0 (CC BY 4.0) — cite as
 "Imaginesis curriculum crosswalk, 2026, https://doi.org/10.5281/zenodo.23217841".
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23217841.svg)](https://doi.org/10.5281/zenodo.23217841)
