@@ -91,6 +91,7 @@ circle-equation,3,coordinate-plane,Equation of a circle,Równanie okręgu
 circle-line-intersection,3,coordinate-plane,Common points of a circle and a line,Punkty wspólne okręgu i prostej
 circle-measures,3,plane-figures,Circumference and area of a circle,Długość okręgu i pole koła
 circle-parts,3,perimeter,Radius and diameter of a circle,Promień i średnica koła
+circle-ring-area,3,plane-figures,Area of an annulus (circular ring),Pole pierścienia kołowego
 circle-tangent-line,3,coordinate-plane,Tangent line to a circle,Styczna do okręgu
 circles-position,3,coordinate-plane,Relative position of two circles given by equations,Wzajemne położenie dwóch okręgów danych równaniami
 classify-objects,3,size-comparison,Classify objects by criteria,Klasyfikowanie przedmiotów
@@ -349,6 +350,7 @@ probability-addition-rule,3,chance,Probability of a union of events,Prawdopodobi
 probability-combinatorial,3,chance,Classical probability with combinatorics,Prawdopodobieństwo klasyczne z kombinatoryką
 probability-single-event,3,chance,Probability of an event in a simple experiment,Prawdopodobieństwo zdarzenia w prostym doświadczeniu
 probability-two-stage,3,chance,Probability in two-stage experiments,Prawdopodobieństwo w doświadczeniu dwuetapowym
+probability-without-replacement,3,chance,Two draws without replacement,Losowanie dwóch elementów bez zwracania
 proportion-equation,3,ratios-proportions,"Direct and inverse proportion equations (y = kxⁿ, y = k/xⁿ)","Równanie proporcjonalności prostej i odwrotnej (y = kxⁿ, y = k/xⁿ)"
 proportion-missing-value,3,ratios-proportions,Solve a proportion with a missing value,Proporcja z brakującą wartością
 proportional-division,3,ratios-proportions,Divide a quantity in a given ratio,Podział proporcjonalny
