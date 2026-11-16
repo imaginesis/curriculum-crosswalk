@@ -1,5 +1,11 @@
 # Changes
 
+## v2026.11.16
+
+- skills: 476 -> 476 rows
+- curricula: 18 -> 18 rows
+- placements: 4065 -> 4068 rows
+
 ## v2026.11.09
 
 - skills: 474 -> 476 rows

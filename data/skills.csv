@@ -3,7 +3,7 @@ algebra,1,,Algebra,Algebra
 arithmetic,1,,Arithmetic,Arytmetyka
 data-and-chance,1,,Data and chance,Dane i przypadek
 geometry,1,,Geometry,Geometria
-measurement,1,,Applying mathematics in everyday life,Stosowanie matematyki w sytuacjach życiowych
+measurement,1,,Applying mathematics in everyday life,Stosowanie matematyki w sytuacjach zyciowych
 spatial-relations,1,,Spatial relations and size attributes,Stosunki przestrzenne i cechy wielkościowe
 addition-subtraction,2,arithmetic,Addition and subtraction,Dodawanie i odejmowanie
 algebraic-expressions,2,algebra,Algebraic expressions,Wyrażenia algebraiczne
@@ -13,7 +13,7 @@ calculus,2,algebra,Calculus,Rachunek różniczkowy i całkowy
 chance,2,data-and-chance,Chance and likelihood,Przypadek i szanse
 circle-geometry,2,geometry,"Circles: chords, tangents, angles, sectors","Okrąg i koło: cięciwy, styczne, kąty, wycinki"
 common-fractions,2,arithmetic,Common fractions,Ułamki zwykłe
-comparing-numbers,2,arithmetic,Comparing numbers,Porównywanie liczb
+comparing-numbers,2,arithmetic,Comparing numbers,Porownywanie liczb
 complex-numbers,2,arithmetic,Complex numbers,Liczby zespolone
 coordinate-plane,2,algebra,Coordinate plane,Układ współrzędnych
 data-handling,2,data-and-chance,Working with data,Praca z danymi
@@ -31,12 +31,12 @@ linear-functions,2,algebra,Linear functions,Funkcja liniowa
 logarithms,2,arithmetic,Logarithms,Logarytmy
 matrices,2,algebra,Matrices,Macierze
 measures,2,measurement,"Mass, capacity and temperature","Masa, pojemność i temperatura"
-money,2,measurement,Money,Pieniądze
-multiplication-division,2,arithmetic,Multiplication and division,Mnożenie i dzielenie
+money,2,measurement,Money,Pieniadze
+multiplication-division,2,arithmetic,Multiplication and division,Mnozenie i dzielenie
 numeracy-systems,2,arithmetic,Number systems,Systemy zapisu liczb
-order-of-operations-theme,2,arithmetic,Order of operations,Kolejność działań
+order-of-operations-theme,2,arithmetic,Order of operations,Kolejnosc dzialan
 patterns,2,measurement,Patterns and rhythms,Rytmy
-perimeter,2,geometry,Perimeter,Obwód
+perimeter,2,geometry,Perimeter,Obwod
 plane-figures,2,geometry,Plane figures,Figury płaskie
 polynomials,2,algebra,Polynomials and rational expressions,Wielomiany i wyrażenia wymierne
 position-orientation,2,spatial-relations,Position and direction,Położenie i kierunek
@@ -58,10 +58,8 @@ written-methods,2,arithmetic,Written algorithms,Algorytmy pisemne
 absolute-value,3,inequalities,Absolute value equations and inequalities,Równania i nierówności z wartością bezwzględną
 accumulation,3,calculus,Accumulated change from a rate,Bilans z tempa zmian
 add-subtract-hundreds,3,addition-subtraction,Add and subtract multiples of ten and hundred,Dodawanie i odejmowanie wielokrotności 10 i 100
-add-within-100-regrouping,3,addition-subtraction,Add within 100 with regrouping,Dodawanie w zakresie 100 z przekraczaniem progu
-add-within-20-no-regrouping,3,addition-subtraction,Add within 20 without regrouping,Dodawanie w zakresie 20 bez przekraczania progu
 addition-within-100,3,addition-subtraction,Addition within 100,Dodawanie w zakresie 100
-addition-within-1000,3,addition-subtraction,Sums and differences of larger numbers,Sumy i różnice większych liczb (250 + 50)
+addition-within-1000,3,addition-subtraction,Addition within 1000 (no regrouping),Dodawanie w zakresie 1000 (bez przekraczania progu)
 analytic-lines,3,coordinate-plane,"Lines in the coordinate plane: intersection, perpendicular, general form","Proste w układzie współrzędnych: przecięcie, prostopadłość, postać ogólna"
 angle-classify,3,angles,Classify angles by their measure,Rodzaje kątów według miary
 angle-measure-protractor,3,angles,Measure angles with a protractor,Pomiar kąta kątomierzem
@@ -96,13 +94,12 @@ circle-tangent-line,3,coordinate-plane,Tangent line to a circle,Styczna do okrę
 circles-position,3,coordinate-plane,Relative position of two circles given by equations,Wzajemne położenie dwóch okręgów danych równaniami
 classify-objects,3,size-comparison,Classify objects by criteria,Klasyfikowanie przedmiotów
 classify-solids,3,solids,Classify solids by properties,Rozpoznawanie bryl
-clock-reading,3,time,Reading the clock,Odczytywanie godzin na zegarze
+clock-reading,3,time,Reading the clock,Odczytywanie zegara
 combinatorics-simple,3,data-handling,Count possibilities systematically,Liczenie mozliwosci
 compare-difference,3,comparing-numbers,Difference comparison,Porównywanie różnicowe (o ile większa)
 compare-difference-ratio,3,comparing-numbers,Compare numbers by difference and by ratio,Porównywanie różnicowe i ilorazowe
 compare-size-attributes,3,size-comparison,Compare by a size attribute,Porównywanie wg cechy wielkościowej
 compare-two-distributions,3,data-handling,Compare two data sets by their means and ranges,Porównanie dwóch zestawów danych: średnia i rozstęp
-compare-within-100,3,comparing-numbers,Compare numbers within 100,Porównywanie liczb w zakresie 100
 compare-within-1000,3,comparing-numbers,Compare and order numbers within 1000,Porównywanie i porządkowanie liczb do 1000
 complex-arithmetic,3,complex-numbers,"Complex numbers: addition, subtraction, multiplication, powers of i","Liczby zespolone: dodawanie, odejmowanie, mnożenie, potęgi i"
 complex-conjugate-modulus,3,complex-numbers,"Conjugate, modulus and division of complex numbers","Sprzężenie, moduł i dzielenie liczb zespolonych"
@@ -160,7 +157,7 @@ directional-lines,3,position-orientation,"Vertical, horizontal, oblique","Pion, 
 distance-speed-time,3,measures,"Distance, speed and time","Droga, prędkość i czas"
 distributive-property,3,algebraic-expressions,Expand and factor with the distributive property,Mnożenie przez nawias i wyłączanie przed nawias
 divisibility-rules,3,divisibility,"Divisibility rules (2, 3, 4, 5, 9, 10)","Cechy podzielności przez 2, 3, 4, 5, 9, 10"
-division-table,3,multiplication-division,Division within the table,Dzielenie w zakresie tabliczki
+division-table,3,multiplication-division,Division within the table to 100,Dzielenie w zakresie tabliczki do 100
 dot-product,3,vectors,Dot product,Iloczyn skalarny
 dot-product-space,3,vectors,"Dot product in space: angle between vectors, perpendicularity","Iloczyn skalarny w przestrzeni: kąt między wektorami, prostopadłość"
 draw-segments,3,plane-figures,Draw segments and polylines with a ruler,Kreślenie odcinków i łamanych
@@ -194,7 +191,7 @@ fraction-divide-unit-whole,3,common-fractions,Divide a unit fraction by a whole 
 fraction-expand,3,common-fractions,Expand a fraction (equivalent fraction with a larger denominator),Rozszerzanie ułamków
 fraction-multiplication-scaling,3,common-fractions,Multiplication by a fraction as scaling,Mnożenie przez ułamek jako zmiana wielkości
 fraction-of-quantity,3,common-fractions,Find a fraction of a quantity,Ułamek danej wielkości
-fraction-part-whole,3,numeracy-systems,Halves and quarters,Połowa i ćwierć całości
+fraction-part-whole,3,numeracy-systems,Part of a whole (halves and quarters),Czesc calosci (polowy i cwierci)
 fraction-simplify,3,common-fractions,Simplify a fraction,Skracanie ułamków
 fraction-times-fraction,3,common-fractions,Multiply fractions,Mnożenie ułamków przez ułamki
 fraction-times-whole,3,common-fractions,Multiply a fraction by a whole number,Mnożenie ułamka przez liczbę naturalną
@@ -286,11 +283,11 @@ modeling-inequality-one-variable,3,inequalities,Modelling a situation with an in
 modeling-linear-relation,3,linear-functions,A relationship between two quantities as a linear function,Zależność dwóch wielkości jako funkcja liniowa
 modeling-with-solids,3,solids,Describing real objects with solids,Obiekty opisane bryłami
 money-calculations,3,money,"Money calculations: budget, change and the better deal",Obliczenia pieniężne: budżet i opłacalność
-money-shopping-change,3,money,Money calculations,Obliczenia pieniężne i reszta
+money-shopping-change,3,money,Shopping and change,Zakupy i reszta
 money-units-conversion,3,money,Zloty and grosz conversion,Zamiana złotych na grosze
 monotonicity-extrema,3,calculus,Monotonicity and extrema,Monotoniczność i ekstrema funkcji
 multiplication-rule-counting,3,data-handling,Count pairs with the multiplication rule,Reguła mnożenia przy zliczaniu par
-multiplication-table,3,multiplication-division,Multiplication table to 100,Tabliczka mnożenia
+multiplication-table,3,multiplication-division,Multiplication table to 100,Tabliczka mnozenia do 100
 multiply-by-ten,3,multiplication-division,Multiply numbers below 20 by ten,Mnożenie przez 10 liczb mniejszych od 20
 multiply-by-tens,3,multiplication-division,Multiply a one-digit number by a multiple of 10,Mnozenie przez pelne dziesiatki
 multiply-two-digit-by-two,3,multiplication-division,Multiply a two-digit number by two,Mnożenie liczby dwucyfrowej przez 2
@@ -305,7 +302,7 @@ numerical-iteration,3,polynomials,Solving equations approximately by iteration,P
 odd-even,3,numeracy-systems,Odd and even numbers,Liczby parzyste i nieparzyste
 operation-properties,3,addition-subtraction,Properties of operations,Własności działań
 optimization,3,calculus,Optimization problems,Zadania optymalizacyjne
-order-of-operations,3,order-of-operations-theme,Two-step order of operations,Kolejność działań (dwa działania)
+order-of-operations,3,order-of-operations-theme,Two-step order of operations,Kolejnosc dzialan (dwa dzialania)
 order-of-operations-brackets,3,order-of-operations-theme,Order of operations with brackets,Kolejność działań z nawiasami
 ordinal-numbers,3,numeracy-systems,Ordinal numbers,Liczba porządkowa
 parallelogram-area,3,area,Area of a parallelogram,Pole równoległoboku
@@ -314,15 +311,15 @@ percent-change,3,ratios-proportions,Percent increase and decrease,Podwyżki i ob
 percent-find-whole,3,ratios-proportions,Find a number from its percentage,Liczba na podstawie danego jej procentu
 percent-of-quantity,3,ratios-proportions,Find a percentage of a quantity,Procent danej wielkości
 percent-what-percent,3,ratios-proportions,What percent one number is of another,Jakim procentem jednej liczby jest druga
-perimeter-rectangle,3,perimeter,Perimeter of a rectangle,Obwód prostokąta
-perimeter-square,3,perimeter,Perimeter of a square,Obwód kwadratu
-perimeter-triangle,3,perimeter,Perimeter of a triangle,Obwód trójkąta
+perimeter-rectangle,3,perimeter,Perimeter of a rectangle,Obwod prostokata
+perimeter-square,3,perimeter,Perimeter of a square,Obwod kwadratu
+perimeter-triangle,3,perimeter,Perimeter of a triangle,Obwod trojkata
 periodic-functions,3,trigonometry,Period and amplitude of a sine curve,Okres i amplituda sinusoidy
 pie-chart-angle,3,data-handling,Pie charts: angle of a sector and frequency,Diagram kołowy: kąt wycinka i liczebność
 place-value-3digit,3,numeracy-systems,Place value of a three-digit number,Znaczenie cyfr w zapisie liczby
 place-value-multidigit,3,numeracy-systems,"Read, write and compare multi-digit whole numbers",Zapis i porównywanie liczb wielocyfrowych
 place-value-tens-ones,3,numeracy-systems,Tens and ones of a two-digit number,Dziesiatki i jednosci
-placeholder-equation,3,order-of-operations-theme,Equation with a box,Równanie z niewiadomą w okienku
+placeholder-equation,3,order-of-operations-theme,Missing-addend (box) equation,Rownanie z okienkiem
 plane-transformations,3,coordinate-plane,"Reflections, rotations and translations of polygons in coordinates","Symetrie, obroty i przesunięcia wielokątów w układzie współrzędnych"
 planes-in-space,3,vectors,"Planes in space: equation from a point and a normal vector, distance from a point","Płaszczyzna w przestrzeni: równanie z punktu i wektora normalnego, odległość punktu od płaszczyzny"
 point-line-distance,3,coordinate-plane,Distance from a point to a line,Odległość punktu od prostej
@@ -382,7 +379,7 @@ relative-frequency-estimate,3,chance,Predict outcomes from probability,Przewidyw
 relative-frequency-from-trials,3,chance,Estimate probability from relative frequency,Prawdopodobieństwo szacowane częstością względną
 repeating-decimal-to-fraction,3,decimal-fractions,Convert a repeating decimal to a fraction,Zamiana ułamka okresowego na zwykły
 right-triangle-trig,3,trigonometry,Solving right triangles with trigonometry,Trójkąt prostokątny — funkcje trygonometryczne
-roman-numerals,3,numeracy-systems,Roman numerals I-XII,Znaki rzymskie do XII
+roman-numerals,3,numeracy-systems,Roman numerals I-XII,Liczby rzymskie I-XII
 roman-numerals-3000,3,numeracy-systems,Roman numerals up to 3000,Liczby w systemie rzymskim do 3000
 root-rules,3,powers-roots,Properties of roots,Działania na pierwiastkach
 roots-estimate,3,powers-roots,Estimate square roots,Szacowanie wartości pierwiastków
@@ -424,7 +421,6 @@ spatial-directions,3,position-orientation,Directions in space and on paper,Kieru
 spatial-position-words,3,position-orientation,Position from another viewpoint,Położenie z perspektywy innej osoby
 special-products,3,algebraic-expressions,Special product formulas,Wzory skróconego mnożenia
 special-right-triangles,3,right-triangles,"Special right triangles (45-45-90, 30-60-90)","Trójkąty prostokątne szczególne (45°, 30° i 60°)"
-subtract-within-100-basic,3,addition-subtraction,Subtract within 100,Odejmowanie liczb dwucyfrowych
 subtraction-within-100,3,addition-subtraction,Subtraction within 100,Odejmowanie w zakresie 100
 successor-predecessor,3,numeracy-systems,Successor and predecessor,Następnik i poprzednik liczby
 symmetry-axial,3,angles,Line symmetry: axes and reflected points,Symetria osiowa
@@ -435,7 +431,7 @@ tangent-line-derivative,3,calculus,Tangent line from the derivative,Styczna do w
 temperature-reading,3,measures,Read a thermometer,Pomiar i odczyt temperatury
 thales-theorem,3,thales-similarity,Intercept theorem,Twierdzenie Talesa
 three-perpendiculars,3,solids,The three perpendiculars theorem,Twierdzenie o trzech prostopadłych
-time-duration,3,time,Simple time calculations,Proste obliczenia czasu
+time-duration,3,time,Time duration,Obliczenia zegarowe - czas trwania
 total-probability-bayes,3,chance,Total probability and Bayes' formula,Prawdopodobieństwo całkowite i wzór Bayesa
 trapezoid-area,3,area,Area of a trapezoid,Pole trapezu
 triangle-area,3,area,Area of a triangle,Pole trójkąta
@@ -468,10 +464,14 @@ venn-diagram-counts,3,chance,"Counting with Venn diagrams: union, intersection, 
 vieta-formulas,3,polynomials,Vieta's formulas,Wzory Viète'a
 volume-of-revolution,3,calculus,Volume of a solid of revolution,Objętość bryły obrotowej
 weighted-mean,3,data-handling,Weighted mean,Średnia ważona
-word-problem-multistep,3,word-problems,Selected complex word problem,Zadanie tekstowe złożone
+word-problem-multistep,3,word-problems,Multi-step word problem,Zadanie tekstowe wieloetapowe
 word-problem-simple,3,word-problems,Simple word problem,Zadanie tekstowe proste
 written-add-subtract-multidigit,3,written-methods,Add and subtract multi-digit whole numbers in columns,Dodawanie i odejmowanie pisemne liczb wielocyfrowych
 written-algorithms,3,written-methods,Standard written algorithm,Dzialanie pisemne
 written-multiply-multidigit,3,written-methods,Multiply multi-digit numbers in columns,Mnożenie pisemne liczb wielocyfrowych
 written-multiply-one-digit,3,written-methods,Multiply a multi-digit number by a one-digit number in columns,Mnożenie pisemne przez liczbę jednocyfrową
+add-within-100-regrouping,4,addition-within-100,Add within 100 with regrouping,Dodawanie w zakresie 100 z przekraczaniem progu dziesiatkowego
+add-within-20-no-regrouping,4,addition-within-100,Add within 20 without regrouping,Dodawanie w zakresie 20 bez przekraczania progu dziesiatkowego
+compare-within-100,4,comparing-numbers,Compare numbers within 100,Porownywanie liczb w zakresie 100
 fractions-compare-unlike,4,fractions-compare,Compare fractions with different numerators and denominators,Porównywanie ułamków o różnych licznikach i mianownikach
+subtract-within-100-basic,4,subtraction-within-100,Subtract within 100,Odejmowanie w zakresie 100
